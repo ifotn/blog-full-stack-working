@@ -1,0 +1,6 @@
+1x. protect POST route
+2x. protect PUT / DELETE routes: auth + correct user
+3x. toggle nav links
+4x. toggle Add / Save / Delete links
+5x. auto-fill + lock username on form
+6. logout - remove sessionStorage item + cookie
